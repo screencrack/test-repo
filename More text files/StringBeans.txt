@@ -1,1 +1,2 @@
 Hello I have 5 string beans.
+My sister ate 1 string bean, and now only have 4.
